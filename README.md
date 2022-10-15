@@ -76,6 +76,8 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 - [Bagel.js](https://github.com/kakengloh/bagel) - Tiny and expressive web framework for Bun, inspired by Express.
 - [Chopstick.ts](https://github.com/sp90/chopstick.ts) - 🥢 A Typescript first web framework running on Bun
 - [Shumai](https://github.com/facebookresearch/shumai) - Fast differentiable tensor framework for machine learning in Bun.
+- [Yoga Server](https://github.com/dotansimha/graphql-yoga) - A fast, fully featured GraphQL Framework that supports Bun, Cloudflare Workers, Deno, and any JS environment. 
+- [GraphQL Mesh](https://github.com/urigo/graphql-mesh) - Gateway that takes any source API and exposes GraphQL. Supports Bun, Cloudflare Workers, Deno, and any JS environment. 
 
 ### Libraries
 
